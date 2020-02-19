@@ -1,0 +1,28 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+%%% Below you see questions regarding what is needed to be corrected %%% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+1 - Are there any issues in sheet-CITATIONS (classification of citations)? 
+Passed.
+2 - Are there any issues in sheet-CITATIONS (indicating position of citations)? 
+Passed.
+3 - Have you properly applied indexes-holder (#R) and (#%) in sheet-CITATIONS? 
+Passed.
+4 - Have all references been cited in sheet-CITATIONS? 
+Passed.
+5 - Have you properly filled all cells in sheet-REFERENCES? 
+Passed.
+6 - Have you completed your personal information for cells in sheet-MAIN? 
+Cells (B12, C12, D12), passed.
+Cell (E12), passed.
+Cells (F12, G12, H12), passed.
+7 - Have you completed the information of your published article for cells in sheet-MAIN? 
+Cell (B18), passed.
+Cells (C18, D18, E18), passed.
+Cells (G18, H18, I18, J18, K18, L18), passed.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+%%%% Thank you for providing quality assurance on your contribution %%%% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
