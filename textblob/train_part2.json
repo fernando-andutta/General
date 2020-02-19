@@ -1,0 +1,7 @@
+[
+    {"text": "I do not like this restaurant", "label": "neg"},
+    {"text": "I am tired of this stuff.", "label": "neg"},
+    {"text": "I can't deal with this", "label": "neg"},
+    {"text": "he is my sworn enemy!", "label": "neg"},
+    {"text": "my boss is horrible.", "label": "neg"}
+]

@@ -1,0 +1,7 @@
+[
+    {"text": "I love this sandwich.", "label": "pos"},
+    {"text": "this is an amazing place!", "label": "pos"},
+    {"text": "I feel very good about these beers.", "label": "pos"},
+    {"text": "this is my best work.", "label": "pos"},
+    {"text": "what an awesome view", "label": "pos"}
+]
